@@ -28,4 +28,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/event-decorator-landing-page.git
+   git clone https://github.com/xonersagar/event-decorator-landing-page.git
