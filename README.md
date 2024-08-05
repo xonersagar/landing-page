@@ -33,6 +33,8 @@ Watch the demo video below:
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
+1. **Clone the repository:**<img width="1435" alt="landing event" src="https://github.com/user-attachments/assets/39da9254-30fc-4fac-b99b-16200a0c455c">
+
    ```sh
    git clone https://github.com/xonersagar/event-decorator-landing-page.git
+   
