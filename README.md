@@ -12,6 +12,13 @@ This project is a professional and responsive landing page designed for an event
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
+## Screen Recording
+
+Watch the demo video below:
+
+![Landing Page Demo](media/landing-page-demo.mp4)
+
+
 ## Features
 
 - Fixed navigation bar that changes color on scroll
