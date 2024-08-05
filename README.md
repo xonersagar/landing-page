@@ -16,7 +16,7 @@ This project is a professional and responsive landing page designed for an event
 
 Watch the demo video below:
 
-![Landing Page Demo](media/landing-page-demo.mp4)
+![Landing Page Demo](event%20landing%20page.mp4)
 
 
 ## Features
